@@ -35,15 +35,15 @@ Or click the badges below to open directly in Colab:
 
 | Notebook | Open in Colab |
 |----------|---------------|
-| K-Means from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/a_kmeans_from_scratch.ipynb) |
-| Hierarchical Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/b_hierarchical_clustering.ipynb) |
-| GMM Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/c_gaussian_mixture_models.ipynb) |
-| DBSCAN with PyCaret | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/d_dbscan_pycaret.ipynb) |
-| Anomaly Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/e_anomaly_detection_pyod.ipynb) |
-| Time Series Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/f_timeseries_clustering.ipynb) |
-| Document Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/g_document_clustering_llm.ipynb) |
-| Image Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/h_image_clustering_imagebind.ipynb) |
-| Audio Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/clustering/blob/main/i_audio_clustering_embeddings.ipynb) |
+| K-Means from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/a_kmeans_from_scratch.ipynb) |
+| Hierarchical Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/b_hierarchical_clustering.ipynb) |
+| GMM Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/c_gaussian_mixture_models.ipynb) |
+| DBSCAN with PyCaret | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/d_dbscan_pycaret.ipynb) |
+| Anomaly Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/e_anomaly_detection_pyod.ipynb) |
+| Time Series Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/f_timeseries_clustering.ipynb) |
+| Document Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/g_document_clustering_llm.ipynb) |
+| Image Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/h_image_clustering_imagebind.ipynb) |
+| Audio Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalaAnbalagan/clustering-algorithms/blob/main/i_audio_clustering_embeddings.ipynb) |
 
 ## Requirements
 
